@@ -3,6 +3,7 @@ https://learn.microsoft.com/en-us/training/modules/wsl-introduction/run-basic-co
 
 | Command   |   Description  |  Extra  |
 | ---       |   ---          |  ---  |
+| cd ~      |  Always return to home directory |  |
 |  pwd      |  Print Working Directory  |   |
 |  ls / dir  |  List contents of current directory   | -l gives more details, -a to include all items (incl. hidden items)  |
 |  cd  |  Change Directory  |  ".." move up 1 level, ~ move to home directory  |
